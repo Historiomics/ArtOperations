@@ -15,10 +15,10 @@ The Art Operation in The 21st Century by A.G. (c) 2014
     * I swear, do it and you will thank me later on. You can't go forward until you've set the limits to how far back you can go. Choosing the data model, designing it - WISELY! - sets a zero-point down. You have now officially launched SOMETHING. Congratulations. You made a critical decision about the underlying data.
     * Everything is BUILT AROUND DATA, ON DATA, THROUGH DATA, BY DATA, etc.
 
-###PHILOSOPHY OF ART OPERATIONS
+### PHILOSOPHY OF ART OPERATIONS
 * The idea of this Art Operations Repository is to give the individual all knowledge that is required to launch a solo Art Operation, by which we mean an Artistic Practise that is for-profit and sustainable.
 * The expertise that has gone into building this precision, rule-based system was gained by hard work over 20+ years of direct, firsthand experience working in the arts.
-* It is made possible by virtue of the fact that all of the steps involved have been abstracted and are being expressed in simple rules, what Stephen Wolfram might call "Simple Programs" (See: [A New Kind of Science] (http://en.wikipedia.org/wiki/A_New_Kind_of_Science#Simple_programs)).
+* It is made possible by virtue of the fact that all of the steps involved have been abstracted and are being expressed in simple rules, what Stephen Wolfram might call "Simple Programs" (See: [A New Kind of Science](http://en.wikipedia.org/wiki/A_New_Kind_of_Science#Simple_programs)).
 * Above, we started - BEFORE STARTING! - with the Data Model underlying your business systems. Here we want to argue that all techniques, methodologies, etc., involved IN your Art Operation should ideally ALL BE PLATFORM-AGNOSTIC.
 * More about Platform-agnosticism in a moment...
 
@@ -35,5 +35,4 @@ ANTILOG_12Dec14a
 * Art Operations => Art-Operations-in-a-Box, have your own ArtOps straight out of the box. Everything you need to know to start your own professional Art Operation. Includes manual.
 * ORIENTATION => Get oriented, straight out of the box. List of materials to get going immediately.
 
-[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
-(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
